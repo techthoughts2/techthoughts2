@@ -8,24 +8,24 @@ I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write cod
 
 ### Connect with me
 
-[<img align="left" alt="techthoughts.info" width="22px" src="media/globe.svg" />][website]
-[<img align="left" alt="TechThoughts2 | YouTube" width="22px" src="media/youtube.svg" />][youtube]
-[<img align="left" alt="JakeMorrison | Twitter" width="22px" src="media/twitter.svg" />][twitter]
-[<img align="left" alt="Jacob Morrison | LinkedIn" width="22px" src="media/linkedin.svg" />][linkedin]
+[<img align="left" alt="techthoughts.info" width="22px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/globe.svg" />][website]
+[<img align="left" alt="TechThoughts2 | YouTube" width="22px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/youtube.svg" />][youtube]
+[<img align="left" alt="JakeMorrison | Twitter" width="22px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/twitter.svg" />][twitter]
+[<img align="left" alt="Jacob Morrison | LinkedIn" width="22px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Windows" width="26px" src="media/microsoft_logo-80x80.png" />
+<img align="left" alt="Windows" width="26px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/microsoft_logo-80x80.png" />
 <img align="left" alt="PowerShell" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/powershell/powershell.png" />
 <img align="left" alt="Yaml" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/yaml/yaml.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" />
-<img align="left" alt="AWS Lambda" width="26px" src="media/aws_lambda_logo-80x80.png" />
+<img align="left" alt="AWS Lambda" width="26px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/aws_lambda_logo-80x80.png" />
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" />
-<img align="left" alt="Azure Functions" width="26px" src="media/azure-functions-80x80.png" />
-<img align="left" alt="DevOps" width="26px" src="media/devops-80x80.jpg" />
+<img align="left" alt="Azure Functions" width="26px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/azure-functions-80x80.png" />
+<img align="left" alt="DevOps" width="26px" src="https://github.com/techthoughts2/techthoughts2/raw/master/media/devops-80x80.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
