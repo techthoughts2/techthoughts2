@@ -38,6 +38,11 @@ I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write cod
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PowerShell Functions](https://www.youtube.com/watch?v=qrwPvbCWRtI)
+- [PowerShell Scripts](https://www.youtube.com/watch?v=IABNJEl2ZWk)
+- [PowerShell Remoting](https://www.youtube.com/watch?v=qvJRaYlxI1w)
+- [PowerShell Errors and Exceptions Handling](https://www.youtube.com/watch?v=A6afjA5Q9eM)
+- [PowerShell Input & Output](https://www.youtube.com/watch?v=nnTlsNA3hPk)
 <!-- YOUTUBE:END -->
 
 ➡️ [Learn PowerShell YouTube Playlist...][learnpowershellplaylist]
@@ -45,6 +50,11 @@ I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write cod
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell Functions](https://techthoughts.info/powershell-functions/)
+- [PowerShell Scripts](https://techthoughts.info/powershell-scripts/)
+- [PowerShell Remoting](https://techthoughts.info/powershell-remoting/)
+- [PowerShell Errors and Exceptions Handling](https://techthoughts.info/powershell-errors-and-exceptions-handling/)
+- [PowerShell Input & Output](https://techthoughts.info/powershell-input-output/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
