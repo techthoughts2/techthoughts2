@@ -13,6 +13,8 @@ I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write cod
 [<img align="left" alt="JakeMorrison | Twitter" width="22px" src="media/twitter.svg" />][twitter]
 [<img align="left" alt="Jacob Morrison | LinkedIn" width="22px" src="media/linkedin.svg" />][linkedin]
 
+<br />
+
 ### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
@@ -29,6 +31,9 @@ I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write cod
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" alt="Telegram" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/telegram/telegram.png" />
 <img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/wordpress/wordpress.png" />
+
+<br />
+<br />
 
 ### 📺 Latest YouTube Videos
 
