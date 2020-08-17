@@ -50,11 +50,11 @@ I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write cod
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Manage Cloud with PowerShell](https://techthoughts.info/manage-cloud-with-powershell/)
 - [PowerShell Functions](https://techthoughts.info/powershell-functions/)
 - [PowerShell Scripts](https://techthoughts.info/powershell-scripts/)
 - [PowerShell Remoting](https://techthoughts.info/powershell-remoting/)
 - [PowerShell Errors and Exceptions Handling](https://techthoughts.info/powershell-errors-and-exceptions-handling/)
-- [PowerShell Input & Output](https://techthoughts.info/powershell-input-output/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
