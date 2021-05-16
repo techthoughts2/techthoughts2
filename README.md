@@ -1,6 +1,6 @@
 ### Hi there, I'm Jake 👋
 
-I'm a Systems Development Engineer at [AWS](https://aws.amazon.com). I write code and use modern technology practices to create highly robust, secure, and performant enterprise solutions.
+I'm a Principal Engineer at [Blackbaud](https://www.blackbaud.com/). I've formerly worked at [AWS](https://aws.amazon.com), and [Rackspace](https://www.rackspace.com/). I write code and use modern technology practices to create highly robust, secure, and performant enterprise solutions.
 
 * 🔭 I’m currently working on a **[Learn PowerShell Video & Blog Series](https://techthoughts.info/learn-powershell-series/)**.
 * 🌱 I’m currently learning Python, Azure Functions, and Bicep.
