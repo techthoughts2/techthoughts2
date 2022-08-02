@@ -1,6 +1,6 @@
 ### Hi there, I'm Jake 👋
 
-I'm a Principal Engineer at [AWS](https://aws.amazon.com). I write code and use modern technology practices to create highly robust, secure, and performant enterprise solutions.
+I'm a Senior Systems Development Engineer at [AWS](https://aws.amazon.com). I write code and use modern technology practices to create highly robust, secure, and performant enterprise solutions.
 
 * 🔭 I’m currently working on a **[Learn PowerShell Video & Blog Series](https://techthoughts.info/learn-powershell-series/)**.
 * 🌱 I’m currently learning Typescript.
@@ -38,11 +38,11 @@ I'm a Principal Engineer at [AWS](https://aws.amazon.com). I write code and use 
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [PowerShell Modules](https://youtu.be/tg5bEPsXTQY)
 - [Manage Cloud with PowerShell](https://www.youtube.com/watch?v=x-bAD3RX_P0)
 - [PowerShell Functions](https://www.youtube.com/watch?v=qrwPvbCWRtI)
 - [PowerShell Scripts](https://www.youtube.com/watch?v=IABNJEl2ZWk)
 - [PowerShell Remoting](https://www.youtube.com/watch?v=qvJRaYlxI1w)
-- [PowerShell Errors and Exceptions Handling](https://www.youtube.com/watch?v=A6afjA5Q9eM)
 <!-- YOUTUBE:END -->
 
 ➡️ [Learn PowerShell YouTube Playlist...][learnpowershellplaylist]
@@ -50,11 +50,11 @@ I'm a Principal Engineer at [AWS](https://aws.amazon.com). I write code and use 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PowerShell Modules](https://www.techthoughts.info/powershell-modules/)
 - [Manage Cloud with PowerShell](https://techthoughts.info/manage-cloud-with-powershell/)
 - [PowerShell Functions](https://techthoughts.info/powershell-functions/)
 - [PowerShell Scripts](https://techthoughts.info/powershell-scripts/)
 - [PowerShell Remoting](https://techthoughts.info/powershell-remoting/)
-- [PowerShell Errors and Exceptions Handling](https://techthoughts.info/powershell-errors-and-exceptions-handling/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
